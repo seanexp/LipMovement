@@ -2,7 +2,7 @@
 
 
 ## Notice
-* Deeply affected by ![PyImageSearch](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/) and ![LipReader](https://github.com/yashshah/LipReader)
+* Deeply affected by [PyImageSearch](https://www.pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/) and [LipReader](https://github.com/yashshah/LipReader)
 
 ## Tested Environment
 - python 3.6
